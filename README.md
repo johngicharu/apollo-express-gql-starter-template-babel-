@@ -15,6 +15,11 @@ Uses yarn and has the following dependencies:
   * nodemon
  
 To start:
+ ```
+  yarn install
+ ```
+  Then
+
   ```
     yarn run dev
   ```
