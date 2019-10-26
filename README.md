@@ -11,7 +11,7 @@ Uses yarn and has the following dependencies:
 ## Dev
   * Babel/core
   * babel/node
-  * babel/present-env
+  * babel/preset-env
   * nodemon
  
 To start:
